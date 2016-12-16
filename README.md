@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/indianajone/object-sorter.svg?branch=master)](https://travis-ci.org/indianajone/object-sorter)
-[![Build Status](https://travis-ci.org/indianajone/object-sorter.svg?branch=master)](https://travis-ci.org/indianajone/object-sorter)
+[![codecov](https://codecov.io/gh/indianajone/object-sorter/branch/master/graph/badge.svg)](https://codecov.io/gh/indianajone/object-sorter)
 
 # Object Sorter
 
