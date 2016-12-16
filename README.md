@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/indianajone/object-sorter.svg?branch=master)](https://travis-ci.org/indianajone/object-sorter)
+[![Build Status](https://travis-ci.org/indianajone/object-sorter.svg?branch=master)](https://travis-ci.org/indianajone/object-sorter)
+
 # Object Sorter
 
 Sorting object according to its dependencies.
