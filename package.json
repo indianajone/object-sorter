@@ -1,5 +1,5 @@
 {
-    "name": "object-sorter",
+    "name": "jsorter",
     "version": "1.0.0",
     "description": "Sorting json object according to its needs",
     "main": "dist/index.js",
