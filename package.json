@@ -2,7 +2,7 @@
     "name": "object-sorter",
     "version": "1.0.0",
     "description": "Sorting json object according to its needs",
-    "main": "index.js",
+    "main": "dist/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/indianajone/object-sorter.git"
@@ -11,7 +11,8 @@
         "dev": "_mocha --compilers js:babel-register --watch -G",
         "lint": "eslint test",
         "coverage": "rm -rf ./coverage && istanbul cover",
-        "test": "npm run lint && npm run coverage -- _mocha -- --compilers js:babel-register"
+        "test": "npm run lint && npm run coverage -- _mocha -- --compilers js:babel-register",
+        "prepublish": "npm run test && npm run build"
     },
     "keywords": [
         "sorter",
